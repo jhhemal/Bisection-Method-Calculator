@@ -20,6 +20,9 @@ you have to use python's mathmetical expression here.
  
  # sqrt(x)
   Return the sqrt of x
+  
+ # np.log(x)
+  Return the ln(x) 
  
  # acos(x)
   Return the arc cosine of x, in radians.
